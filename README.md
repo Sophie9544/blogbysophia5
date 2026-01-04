@@ -4,8 +4,7 @@ Firepower products FMC come with built in licenses for basic functionality, but 
 
 The type of license Smart or Classic depends on the software running on the device, not the hardware itself. For hardware FMC devices, additional licenses are usually not required, but [Firepower Management Center](https://golicense.net/product-category/cisco-license/security/firewall/fmc/) Virtual requires separate entitlements for each device it manages. In clustered or multi instance environments, each cluster member or security module needs an individual license.
 
-![may photo](https://sdmntprsoutheastus3.oaiusercontent.com/files/00000000-c3e0-720c-b3d9-5ffd3a4e67cb/raw?se=2025-12-28T21%3A28%3A36Z&sp=r&sv=2024-08-04&sr=b&scid=ec71c6ea-1bf9-40b7-919a-c0eba8e1a69d&skoid=f28c0102-4d9d-4950-baf0-4a8e5f6cf9d4&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-12-28T18%3A52%3A03Z&ske=2025-12-29T18%3A52%3A03Z&sks=b&skv=2024-08-04&sig=5HDad/FjF8lAaXnaETpTPPymxq/EqaQEFnKDNhIeIeo%3D)
-
+![may photo](https://golicense.net/wp-content/uploads/2020/08/Firepower-Management-Center-Configuration.jpg)
 **Licensing Firepower Threat Defense**
 
 Firepower Threat Defense (FTD) devices use Smart Licensing, which allows centralized management of licenses without tying them to a serial number or product key. Base licenses are included with every device and enable core functions such as routing, switching, high-availability configuration, and clustering. Optional licenses such as Malware, Threat, and URL Filtering provide additional capabilities like intrusion detection, file control, and advanced malware protection. 
